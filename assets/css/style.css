@@ -1,0 +1,13 @@
+* {
+	margin: 0;
+}
+.jumbotron {
+	text-align: center;
+	background: #6F3315 !important;
+}
+.head {
+	color: white !important;
+}
+.lead {
+	color: white;
+}
